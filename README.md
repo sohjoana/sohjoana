@@ -58,15 +58,7 @@ Here are some ideas to get you started:
       <a href="https://github.com/sohjoana">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohjoana&langs_count=10&exclude_repo=&card_width=900&hide_border=true&theme=radical" width="800" />
       </a>
-</p>
-</details>
-    
----
 
-    
-    
-<!-- Profile View Counter-->
-<p align="center">
       <a href="https://github.com/sohjoana">
         <img src="https://komarev.com/ghpvc/?username=sohjoana&color=blue&style=flat)" />
       </a>
